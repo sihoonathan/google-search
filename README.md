@@ -1,5 +1,8 @@
 # Goole-Search
 
+![screenshot1](assets/img/screenshot1.png)
+![screenshot2](assets/img/screenshot2.png)
+
 ## Motivation
 
 My First Odin Project
