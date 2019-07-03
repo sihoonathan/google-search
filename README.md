@@ -9,5 +9,5 @@
 
 #
 
-I made my own custom html/css page to resemble google search result page. 
+This is a reproduction of google homepage view with my own html/css implementations.
 
